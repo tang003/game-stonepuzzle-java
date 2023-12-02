@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96b28dc4-383f-4a3a-b311-36ccb36cc8d0" name="更改" comment="v1.0">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-stonepuzzle-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/win.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2YyCzf1PnbZQ30ddyCM9EP43voR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Code/java/game-stonepuzzle-java/game-stonepuzzle-java/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\java\game-stonepuzzle-java\game-stonepuzzle-java\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="game-stonepuzzle-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="game-stonepuzzle-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="96b28dc4-383f-4a3a-b311-36ccb36cc8d0" name="更改" comment="" />
+      <created>1701488697782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701488697782</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0" />
+  </component>
+</project>
